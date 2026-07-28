@@ -1,0 +1,12 @@
+#ignore python cache
+__pycache__/
+
+#ignore Tex files
+media/Tex/
+
+#ignore images
+media/images/
+
+#ignore Partial Movie Files
+media/**/partial_movie_files/
+
