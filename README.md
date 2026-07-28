@@ -1,4 +1,4 @@
-"""
+
 Some code for simple maths animations I made in my freetime.
 All use the manim library of python developed by its community, lookup ManimCE for more info.
 
@@ -10,4 +10,4 @@ All use the manim library of python developed by its community, lookup ManimCE f
 
 --> Epsilon_Neighbourhood.py: A program to visualize epsilon neighborhoods in Real analysis.
 
-"""
+
