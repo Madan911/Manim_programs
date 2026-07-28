@@ -1,3 +1,7 @@
+#Manim Community v0.17.3
+#Manim code for visualizing the complex exponential function
+
+
 from manim import *
 from manim.opengl import *
 
